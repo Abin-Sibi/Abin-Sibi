@@ -34,6 +34,28 @@ I'm a passionate and self-taught **MERN Stack Developer** with a knack for build
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.icons8.com/color/48/000000/python.png)  
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
+### Frameworks and Libraries
+![React](https://img.icons8.com/plasticine/50/000000/react.png)  
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)  
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png)  
+![Next.js](https://img.icons8.com/ios-filled/50/000000/nextjs.png)  
+
+### Tools
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  
+![Express.js](https://img.icons8.com/ios-filled/50/000000/express-js.png)  
+![Git](https://img.icons8.com/color/48/000000/git.png)  
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)  
+
+
+---
 
 ## ⚡ Fun Fact  
 When I’m not coding, you’ll find me exploring the latest tech trends, playing video games, or experimenting with new gadgets! 🎮  
