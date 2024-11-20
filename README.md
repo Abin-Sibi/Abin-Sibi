@@ -1,4 +1,4 @@
-![amazonwebservices-original-wordmark](https://github.com/user-attachments/assets/4087849c-558e-4b08-9095-03d7ec9a7ee8)# 👋 Hi, I'm Abin Sibi!  
+# 👋 Hi, I'm Abin Sibi!  
 
 Welcome to my corner of the tech universe! 🌟  
 
