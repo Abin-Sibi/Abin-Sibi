@@ -31,7 +31,6 @@ Feel free to explore my repositories, and let’s connect if you share similar i
 ---
 
 ## 📊 GitHub Stats  
-![Abin Sibi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abin-Sibi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Sibi&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies  
@@ -39,18 +38,6 @@ Feel free to explore my repositories, and let’s connect if you share similar i
 
 ## 🚀 Contribution Graph  
 [![Abin Sibi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abin-Sibi&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌟 Featured Repositories  
-- [🌐 Portfolio Website](https://github.com/Abin-Sibi/portfolio)  
-  A fully responsive portfolio built using **Next.js** and **Tailwind CSS**.
-  
-- [📊 Financial Analysis Tool](https://github.com/Abin-Sibi/financial-analysis)  
-  A Python-powered financial analysis model integrated with a web app.
-
-- [🎮 AR/VR Unity Project](https://github.com/Abin-Sibi/ar-vr-unity-project)  
-  Interactive AR/VR experiences using Unity and C#.
 
 ---
 
